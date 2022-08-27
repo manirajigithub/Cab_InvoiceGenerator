@@ -1,0 +1,5 @@
+C:\Users\mani1\source\repos\CabInvoiceGeneratorUC1\TDDCabInvoice\obj\Debug\net6.0\TDDCabInvoice.csproj.AssemblyReference.cache
+C:\Users\mani1\source\repos\CabInvoiceGeneratorUC1\TDDCabInvoice\obj\Debug\net6.0\TDDCabInvoice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mani1\source\repos\CabInvoiceGeneratorUC1\TDDCabInvoice\obj\Debug\net6.0\TDDCabInvoice.AssemblyInfoInputs.cache
+C:\Users\mani1\source\repos\CabInvoiceGeneratorUC1\TDDCabInvoice\obj\Debug\net6.0\TDDCabInvoice.AssemblyInfo.cs
+C:\Users\mani1\source\repos\CabInvoiceGeneratorUC1\TDDCabInvoice\obj\Debug\net6.0\TDDCabInvoice.csproj.CoreCompileInputs.cache
